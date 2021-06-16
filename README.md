@@ -7,14 +7,6 @@ Principalmente los siguientes aspectos:
   + Eficiencia de los algoritmos entregados
   + Diseño interactivo (UX) 
 
-## IMPORTANTE
-1. Se requiere de una **cuenta de GitHub** para realizar este ejercicio.
-2. **Antes de comenzar a programar:**
-    * Realizar un `Fork` de este repositorio (https://github.com/Aly-System/test-developer.git).
-    * Clonar el fork a su máquina local 
-    * Crear un `branch` en su cuenta de GitHub utilizando su nombre completo.
-3. **Al finalizar**, realizar un `Commit` de su proyecto, **enviar un `Pull Request` al branch con su NOMBRE**, y notificar a la siguiente dirección de correo electrónico  [rrhh@alysystem.com](mailto:rrhh@alysystem.com) con el asunto **Prueba Finalizada**.
-4. Utilizar *React Hooks*
 
 ## EJERCICIO PRÁCTICO
 **Objetivo:** Crear una aplicación que ayude a obtener una lista de usuarios y muestre la información de sus perfiles, explotando el API Rest pública de GitHub https://api.github.com/search/users?q=YOUR_NAME.
